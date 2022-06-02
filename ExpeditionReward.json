@@ -2,19 +2,7 @@
 	{
 		"expId": 101,
 		"expeditionRewardDataList": [
-			{
-				"hourTime": 4,
-				"rewardMora": 0,
-				"expeditionRewardData": [
-					{
-						"itemId": 101001,
-						"minCount": 4,
-						"maxCount": 5
-					}, {
-						"itemId": 101002,
-						"minCount": 2,
-						"maxCount": 3
-					}
+			
 				]
 			},
 			{
